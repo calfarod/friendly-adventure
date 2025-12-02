@@ -1,0 +1,6 @@
+# Archivos de credenciales y tokens
+GitHub_TOKEN.docx
+
+# Opcional: Ignorar archivos temporales comunes
+#*.log
+#*.swp
