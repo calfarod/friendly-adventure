@@ -4,3 +4,4 @@
 
 *Ejemplo de cambio:* "¡Bienvenidos! Esta característica fue desarrollada en una rama separada."
 
+***Ejemplo de cambio:*** "¡Bienvenidos! Esta característica fue desarrollada en una rama separada."
